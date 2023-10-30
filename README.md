@@ -1,3 +1,9 @@
+# Desktop view
+![Screenshot 2023-10-30 120619](https://github.com/abhaythanak/list-items/assets/107474114/dd516124-09ea-4bd0-a1f9-bc0f2089bc95)
+
+# Mobile view
+![Screenshot 2023-10-30 120541](https://github.com/abhaythanak/list-items/assets/107474114/a73ddc47-ddc8-42a2-9aee-5684e6167a4b)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
