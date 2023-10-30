@@ -1,3 +1,6 @@
+# Deploy Link
+https://far-mart-assignment.netlify.app/
+
 # Desktop view
 ![Screenshot 2023-10-30 120619](https://github.com/abhaythanak/list-items/assets/107474114/dd516124-09ea-4bd0-a1f9-bc0f2089bc95)
 
